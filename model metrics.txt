@@ -1,0 +1,13 @@
+xgboost regression model for English Language arts.
+Use mean imputation and the MinMaxScaler
+Hyperparameters of learning_rate=0.05, n_estimators=700, default otherwise
+mean_squared_error = 0.0156
+mean_absolute_error = 0.0944
+R-square = 0.63
+
+xgboost regression model for Mathematics.
+Use mean imputation and the MinMaxScaler
+Hyperparameters of learning_rate=0.1, n_estimators=100, default otherwise
+mean_squared_error = 0.0197
+mean_absolute_error = 0.1090
+R-square = 0.54
